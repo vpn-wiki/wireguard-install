@@ -1,5 +1,5 @@
 # WireGuard installer
-[![](https://github.com/vpn-wiki/$dest/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
+[![](https://github.com/vpn-wiki/wireguard-install/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 ![Lint](https://github.com/angristan/wireguard-install/workflows/Lint/badge.svg)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/angristan)
