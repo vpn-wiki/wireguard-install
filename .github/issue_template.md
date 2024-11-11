@@ -1,4 +1,5 @@
 <!---
+[![](https://github.com/vpn-wiki/wireguard-install/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 ❗️ Please read ❗️
 ➡️ If you need help with OpenVPN itself, please use the community forums (https://www.reddit.com/r/WireGuard/) or Stack Overflow (https://stackoverflow.com/questions/tagged/wireguard)
 ➡️ For the script, prefer opening a discussion thread for help: https://github.com/angristan/wireguard-install/discussions
